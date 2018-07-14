@@ -2,6 +2,8 @@
 
 > A Vue.js project
 
+**在线预览的情况下，公告发布页面样式加载要稍等一会**
+
 使用方法 clone之后 进入目录
 
 npm install安装依赖（稍等一会）
